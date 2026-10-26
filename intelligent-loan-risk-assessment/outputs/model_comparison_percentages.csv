@@ -1,0 +1,7 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1 (%),ROC-AUC (%)
+Stacking Ensemble,96.67%,95.93%,88.72%,92.19%,99.47%
+Soft Voting Ensemble,96.50%,95.90%,87.97%,91.76%,99.47%
+Gradient Boosting,96.17%,95.83%,86.47%,90.91%,99.39%
+Support Vector Machine (SVM),96.00%,93.60%,87.97%,90.70%,99.20%
+Random Forest,95.83%,96.55%,84.21%,89.96%,99.28%
+K-Nearest Neighbors (KNN),94.00%,95.33%,76.69%,85.00%,97.97%

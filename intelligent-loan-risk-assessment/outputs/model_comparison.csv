@@ -1,0 +1,7 @@
+Model Key,Model,Accuracy,Precision,Recall,F1,ROC-AUC
+stacking,Stacking Ensemble,0.9667,0.9593,0.8872,0.9219,0.9947
+soft_voting,Soft Voting Ensemble,0.965,0.959,0.8797,0.9176,0.9947
+gradient_boosting,Gradient Boosting,0.9617,0.9583,0.8647,0.9091,0.9939
+svm,Support Vector Machine (SVM),0.96,0.936,0.8797,0.907,0.992
+random_forest,Random Forest,0.9583,0.9655,0.8421,0.8996,0.9928
+knn,K-Nearest Neighbors (KNN),0.94,0.9533,0.7669,0.85,0.9797
